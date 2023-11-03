@@ -1,2 +1,6 @@
-# next-contentful-typescript
-# next-contentful-typescript
+- Створив новий проект Next.
+- Створив контент у Contentful
+- Під'єднався за допомогою (createClient from"contentful")
+- Створив сторінки з мінімальним оформленням  контенту
+- Завантажив дані з Contentful прямо в файл за допомогою getStaticProps
+- На динамічних статтях додав getStaticPaths
